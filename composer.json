@@ -1,0 +1,19 @@
+{
+    "name": "zxx/test-composer",
+    "description": "this is my first composer package.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zxx",
+            "email": "1092248853@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zxx\\": "src/Zxx"
+        }
+    }
+}
+
+
